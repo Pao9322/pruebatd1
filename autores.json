@@ -1,0 +1,23 @@
+[
+    {
+        "model": "resena.Autor",
+        "pk": 1,
+        "fields": {
+            "nombre": "Gabriel García Márquez"
+        }
+    },
+    {
+        "model": "resena.Autor",
+        "pk": 2,
+        "fields": {
+            "nombre": "J.K. Rowling"
+        }
+    },
+    {
+        "model": "resena.Autor",
+        "pk": 3,
+        "fields": {
+            "nombre": "Stephen King"
+        }
+    }
+]

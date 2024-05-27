@@ -1,0 +1,27 @@
+[
+    {
+        "model": "resena.Usuario",
+        "pk": 1,
+        "fields": {
+            "username": "administrador",
+            "password": "Abc123#",
+            "first_name": "",
+            "last_name": "",
+            "email": "administrador@mail.com",
+            "tipo_usuario": "admin"
+        }
+    },
+    {
+        "model": "resena.Usuario",
+        "pk": 2,
+        "fields": {
+            "username": "lector",
+            "password": "Abc123#",
+            "first_name": "",
+            "last_name": "",
+            "email": "lector@mail.com",
+            "tipo_usuario": "lector"
+        }
+    }
+   
+]

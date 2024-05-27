@@ -1,0 +1,24 @@
+[
+    {
+        "model": "resena.Reseña",
+        "pk": 1,
+        "fields": {
+            "libro": 1,
+            "usuario": 1,
+            "calificacion": 5,
+            "comentario": "Una obra maestra de la literatura latinoamericana.",
+            "fecha_resena": "2023-05-15"
+        }
+    },
+    {
+        "model": "resena.Reseña",
+        "pk": 2,
+        "fields": {
+            "libro": 2,
+            "usuario": 2,
+            "calificacion": 4,
+            "comentario": "Una historia fascinante que te atrapa desde la primera página.",
+            "fecha_resena": "2023-06-20"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "model": "resena.Libro",
+        "pk": 1,
+        "fields": {
+            "titulo": "Cien años de soledad",
+            "descripcion": "Una novela aclamada del realismo mágico latinoamericano.",
+            "año_publicacion": 1967,
+            "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d227e8967274cd9589a549adff52d.jpg",
+            "genero": 1,
+            "autor": 1
+        }
+    },
+    {
+        "model": "resena.Libro",
+        "pk": 2,
+        "fields": {
+            "titulo": "Harry Potter y la piedra filosofal",
+            "descripcion": "La primera entrega de la famosa serie de Harry Potter.",
+            "año_publicacion": 1997,
+            "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/ce/e6/cee6ef96dad70d3f599b953f0e50afc7.jpg",
+            "genero": 4,
+            "autor": 2
+        }
+    },
+    {
+        "model": "resena.Libro",
+        "pk": 3,
+        "fields": {
+            "titulo": "El resplandor",
+            "descripcion": "Un clásico del terror psicológico.",
+            "año_publicacion": 1977,
+            "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/49/66/49661480fa1f78034b80bae7ed020841.jpg",
+            "genero": 6,
+            "autor": 3
+        }
+    }
+]

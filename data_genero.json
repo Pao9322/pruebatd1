@@ -1,0 +1,58 @@
+[
+    {
+        "model": "resena.Genero",
+        "pk": 1,
+        "fields": {
+            "nombre": "Ficción"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 2,
+        "fields": {
+            "nombre": "Misterio"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 3,
+        "fields": {
+            "nombre": "Ciencia Ficción"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 4,
+        "fields": {
+            "nombre": "Fantasía"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 5,
+        "fields": {
+            "nombre": "Romance"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 6,
+        "fields": {
+            "nombre": "Terror"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 7,
+        "fields": {
+            "nombre": "Histórica"
+        }
+    },
+    {
+        "model": "resena.Genero",
+        "pk": 8,
+        "fields": {
+            "nombre": "Poesía"
+        }
+    }
+]
